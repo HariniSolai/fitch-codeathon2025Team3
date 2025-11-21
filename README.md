@@ -181,4 +181,13 @@ Use AI as a **sustainability research assistant** to reason about the impact of 
 
 Teams can signup for AWS access using below link. This will provide full access to all AWS services for 72 hours.
 
-https://catalog.us-east-1.prod.workshops.aws/join?access-code=dced-03eacd-5e
+| Team name | Team code | Join event URL |
+| --------- | --------- | -------------- |
+| NY Team 1	0403-181f8e-83	https://catalog.us-east-1.prod.workshops.aws/join?access-code=0403-181f8e-83 |
+| NY Team 2	4336-12e47d-c3	https://catalog.us-east-1.prod.workshops.aws/join?access-code=4336-12e47d-c3 |
+| Chicago Team 1 | 779e-1bd54f-6f | https://catalog.us-east-1.prod.workshops.aws/join?access-code=779e-1bd54f-6f |
+| Chicago Team 2 | 1a4f-1a61fa-37 | https://catalog.us-east-1.prod.workshops.aws/join?access-code=1a4f-1a61fa-37 |
+| Chicago Team 3 | 1196-1044dd-34 | https://catalog.us-east-1.prod.workshops.aws/join?access-code=1196-1044dd-34 |
+| Chicago Team 4 | 13cf-1f63ac-35 | https://catalog.us-east-1.prod.workshops.aws/join?access-code=13cf-1f63ac-35 |
+| Chicago Team 5 | c689-1c8cfc-e9 | https://catalog.us-east-1.prod.workshops.aws/join?access-code=c689-1c8cfc-e9 |
+
